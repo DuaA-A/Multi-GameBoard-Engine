@@ -121,9 +121,11 @@ void GameManager::run() {
     <p>
         This project is licensed under the MIT License. See the LICENSE file for details.
     </p>
-    <h2>Author</h2>
+    <h2>Authors</h2>
     <p>
-        <strong>[Your Name]</strong><br>
+        <strong>Duaa AbdelAti</strong><br>
+        <strong>AbdelRahman Ashraf</strong><br>
+        <strong>Roaa Sabry</strong><br>
         Feel free to reach out with questions or suggestions!
     </p>
 </body>
